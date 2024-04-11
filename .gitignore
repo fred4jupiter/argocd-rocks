@@ -1,0 +1,20 @@
+# Eclipse
+.settings/
+.classpath
+.project
+.springBeans
+.factorypath
+target/
+release_version.txt
+
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+*.log
+logs/
+
+/.apt_generated/
+.env
